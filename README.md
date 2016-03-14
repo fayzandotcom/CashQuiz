@@ -1,4 +1,4 @@
-# travelcart-api
+# CashQuiz
 
 A quiz game mobile app developed for Java enabled phones.
 
