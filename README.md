@@ -7,7 +7,7 @@ A quiz game mobile app developed for Java enabled phones.
 1. J2ME
 2. Floggy - J2ME persistance framework v1.4.0
 
-## Platform/Framework
+## Description
 
 Refer to the document under /docs folder
 
